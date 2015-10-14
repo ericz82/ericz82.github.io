@@ -3,6 +3,6 @@ $(document).ready(function() {
 
   setTimeout(function() {
 		$('#desc').removeClass("title-before")
-	}, 2000);
+	}, 1500);
 
 })
