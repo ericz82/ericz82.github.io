@@ -40,6 +40,10 @@
     -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
 
+.social-buttons li {
+  margin-bottom: 20px;
+}
+
 .social-buttons li a:hover {
   color: #c96a6a;
 }
